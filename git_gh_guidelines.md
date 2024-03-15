@@ -54,12 +54,14 @@ This will show you if any changes have been made since your last merge. If so:
 
 `git push`
 
-## 7. Go to GitHub to create a pull request
-Create a pull request from the repo's main page
+## 7. Go to GitHub to create a Pull Request
+A Pull Request (PR) initiates a code review before any commits are merged to the main branch.
 
-Fill out the PR template 
+You can create a PR from the repo's main page on GitHub. 
 
-Assign reviewers to conduct a code review before your changes can be merged with the main branch
+Fill out the PR template.
+
+Assign reviewer/s to conduct a code review before your changes are be merged with the main branch.
 
 ## 
 
