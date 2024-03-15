@@ -1,5 +1,5 @@
 ## 1a. Clone the repo 
-If this is your first time working with this repo, navigate to the directory you want to clone your repo into, then clone the repo:
+If this is your first time working with this repo, navigate to/create the directory you want to work in, then clone the repo:
 
 `git clone <link to repo>`
 
@@ -38,7 +38,7 @@ Branch naming convention follows: name/feature or change you're making ie. shay/
 `git commit -m "commit message"`
 
 ## *Optional* 
-Before creating a PR, you may want to pull from main again to make sure everything is up to date:
+Before creating a Pull Request (PR), you may want to pull from main again to make sure everything is up to date:
 
 `git checkout main`
 
@@ -55,13 +55,13 @@ This will show you if any changes have been made since your last merge. If so:
 `git push`
 
 ## 7. Go to GitHub to create a Pull Request
-A Pull Request (PR) initiates a code review before any commits are merged to the main branch.
+A PR initiates a code review before any commits are merged to the main branch.
 
 You can create a PR from the repo's main page on GitHub. 
 
 Fill out the PR template.
 
-Assign reviewer/s to conduct a code review before your changes are be merged with the main branch.
+Assign reviewer/s to conduct a code review before your changes are merged with the main branch.
 
 ## 
 
